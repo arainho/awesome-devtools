@@ -6,7 +6,8 @@
 
 Website | Description
 ---- | ----
-[devhints.io cheatsheets](https://devhints.io)                  | rstacruz collection of cheatsheets
+[devhints.io cheatsheets](https://devhints.io)                   | @rstacruz collection of cheatsheets
+[awesome-devtools](https://github.com/moimikey/awesome-devtools) | @moimikey curated list of in-browser bookmarklets, tools, and resources for modern full-stack software engineers. 
 
 
 
