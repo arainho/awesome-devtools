@@ -14,14 +14,15 @@ Website | Description
 Website | Description
 ---- | ----
 [Wireflow](https://wireflow.co/)                   | free, online and open source tool for creating beautiful user flow prototypes
-[Sketch Systems](https://sketch.systems) | ui and flow design with interactive state machines
+[Sketch Systems](https://sketch.systems)           | ui and flow design with interactive state machines
 
 ## Other useful repositories
 
 Repository | Description
 ---- | ----
 [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) | The best design tools and plugins for everything 
-[Awesome Productivity Software]() | Community-curated list of awesome life-management & productivity software
+[Awesome Productivity Software](areknawo/awesome-productivity-software)    | @areknawo Community-curated list of awesome life-management & productivity software
+[Developer Roadmaps](https://roadmap.sh/roadmaps)                          | @kamranahmedse Step by step guides and paths to learn different tools or technologies
 
 
 
