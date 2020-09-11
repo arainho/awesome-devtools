@@ -23,6 +23,7 @@ Repository | Description
 [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) | The best design tools and plugins for everything 
 [Awesome Productivity Software](areknawo/awesome-productivity-software)    | Community-curated list of awesome life-management & productivity software
 [Developer Roadmaps](https://roadmap.sh/roadmaps)                          | Step by step guides and paths to learn different tools or technologies
+[Mostly Free Resources for Almost Everyone](https://github.com/chasedooley/mostly-free-resources-for-almost-everyone) | A list of free resources 
 
 
 
