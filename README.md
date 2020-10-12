@@ -22,6 +22,11 @@ Repository | Description
 [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) | The best design tools and plugins for everything 
 [Awesome Productivity Software](areknawo/awesome-productivity-software)    | Community-curated list of awesome life-management & productivity software
 
+## Documentation
+Repository | Description
+---- | ----
+[DevDocs API Documentation](https://devdocs.io) | Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++
+
 ## Other useful repositories
 Repository | Description
 ---- | ----
