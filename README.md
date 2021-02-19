@@ -32,6 +32,5 @@ Repository | Description
 ---- | ----
 [Free for Developers](https://free-for.dev) | This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
 [Mostly Free Resources for Almost Everyone](https://github.com/chasedooley/mostly-free-resources-for-almost-everyone) | A list of free resources 
-
-
+[Awesome Testing Courses & Tutorials](https://github.com/upgundecha/awesome-testing-courses) | A curated list of awesome online courses and tutorials on software testing, test automation and more... 
 
